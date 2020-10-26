@@ -1,0 +1,9 @@
+*.exe
+*.test
+*.prof
+*.iml
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+.DS_Store
+.tmp
