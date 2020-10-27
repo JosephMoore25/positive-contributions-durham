@@ -1,0 +1,20 @@
+.about-author
+{
+	background-color: #d5f2f4;
+}
+.references
+{
+	background-color: #78d5db;
+}
+.header {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
